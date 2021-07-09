@@ -9,8 +9,8 @@ import android.view.View;
 
 import java.io.InputStream;
 
-public class Gifview {
-    public static class GifView extends View {
+
+    public  class GifView extends View {
         private InputStream gifInputStream;
 
         private Movie gifMovie;
@@ -92,4 +92,4 @@ public class Gifview {
     }
 
 
-}
+
